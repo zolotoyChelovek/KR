@@ -1,0 +1,11 @@
+D:\STUDY\VS projects\nim\nim\bin\Debug\nim.exe.config
+D:\STUDY\VS projects\nim\nim\bin\Debug\nim.exe
+D:\STUDY\VS projects\nim\nim\bin\Debug\nim.pdb
+D:\STUDY\VS projects\nim\nim\obj\Debug\nim.csproj.AssemblyReference.cache
+D:\STUDY\VS projects\nim\nim\obj\Debug\nim.Properties.Resources.resources
+D:\STUDY\VS projects\nim\nim\obj\Debug\nim.csproj.GenerateResource.cache
+D:\STUDY\VS projects\nim\nim\obj\Debug\nim.csproj.CoreCompileInputs.cache
+D:\STUDY\VS projects\nim\nim\obj\Debug\nim.exe
+D:\STUDY\VS projects\nim\nim\obj\Debug\nim.pdb
+D:\STUDY\VS projects\nim\nim\obj\Debug\nim.properties.resources
+D:\STUDY\VS projects\nim\nim\obj\Debug\nim.game.resources
